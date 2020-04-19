@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+</head>
+
+<body>
+
+<div style="width: 400px; height: 400px; background: #000;" id="portal"> </div>
+
+<script>
+const bits = [
+  1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1, // Sync
+  0, 0, 0, 0, 1, 0, 0, 0,
+  0, 1, 0, 0, 1, 0, 0, 0,
+  0, 1, 0, 0, 1, 0, 0, 1,
+  0, 1, 0, 0, 1, 0, 0, 0,
+  0, 1, 0, 0, 1, 0, 0, 0,
+  0, 1, 0, 0, 1, 0, 0, 0,
+  0, 1, 0, 0, 1, 0, 0, 1,
+  0, 1, 0, 0, 1, 0, 0, 1,
+  0, 1, 0, 0, 1, 0, 0, 1,
+]
+var cur = 0;
+var portal;
+
+function sendCurBit() {
+  const bit = bits[cur];
+  if (bit == 0) {
+    portal.style.background = "#000";
+  } else {
+    portal.style.background = "#fff";
+  }
+  cur = (cur + 1) % bits.length;
+  window.requestAnimationFrame(sendCurBit);
+}
+
+window.addEventListener("load", function() {
+  portal = document.getElementById("portal");
+  window.requestAnimationFrame(sendCurBit);
+});
+
+</script>
+</body>
+</html>
