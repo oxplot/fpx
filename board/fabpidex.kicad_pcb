@@ -191,7 +191,7 @@
     (add_net Vdrive)
   )
 
-  (module fabpidex:USB4105-GF-A (layer F.Cu) (tedit 5E9C6FAD) (tstamp 5E9C6AE6)
+  (module fabpidex:USB4105-GF-A (layer F.Cu) (tedit 5E9CAEA0) (tstamp 5E9C6AE6)
     (at 160.8328 92.4306 270)
     (path /5E9BD19C)
     (fp_text reference J1 (at 0.5294 -4.8472 270) (layer F.SilkS)
@@ -257,6 +257,11 @@
       (net 1 GND))
     (pad S1 thru_hole oval (at -4.32 1.265 270) (size 1 1.8) (drill oval 0.7 1.4) (layers *.Cu *.Mask)
       (net 1 GND))
+    (model ${KIPRJMOD}/USB4105-GF-A.stp
+      (offset (xyz -16.04 -3.85 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (module Fiducial:Fiducial_0.5mm_Mask1mm (layer F.Cu) (tedit 5C18CB26) (tstamp 5E9B9F60)
