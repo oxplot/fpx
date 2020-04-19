@@ -1,0 +1,326 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+
+<link rel="canonical" href="https://fpx.oxplot.com">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover">
+<meta name="author" content="Mansour Behabadi">
+<meta name="description" content="Tiny &amp; easy to configure module that enables use of USB‑C (USB‑PD) chargers, adapters &amp; power banks as power sources.">
+<meta name="keywords" content="usb-pd,power delivery,electronics,kit,module,diy,avr,arduino,maker">
+
+<meta property="og:title" content="fpx: easy USB‑C power for all your devices">
+<meta property="og:description" content="Tiny &amp; easy to configure module that enables use of USB‑C (USB‑PD) chargers, adapters &amp; power banks as power sources.">
+<meta property="og:image" content="https://fpx.oxplot.com/fpx.png">
+<meta property="og:url" content="https://fpx.oxplot.com">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image:alt" content="Top side of fpx board">
+
+<title>fpx: easy USB‑C power for all your devices</title>
+<link rel="stylesheet" href="pico.min.css">
+<style>
+select + small { margin-top: -1rem; margin-bottom: 1.5rem; }
+</style>
+</head>
+<body>
+<main class="container">
+
+<h1 style="color: #fdd835">fpx: <span style="color: var(--h1)">easy
+USB‑C power for all your devices</span></h1>
+
+<div class="grid">
+<div>
+  <p><strong>Tiny &amp; easy to configure module that enables
+  use of USB‑C (USB‑PD) chargers, adapters &amp; power banks as power
+  sources.</strong></p>
+  <p>Power your next project with USB‑C or upgrade your existing
+  devices.</p>
+</div>
+<div style="text-align:center"><p style="margin-bottom: 2rem">
+  <img alt="Top side of fpx board" src="fpx.png" style="max-width: 400px;width: 100%">
+  <br><small>21mm (L) × 12mm (W) × 6mm (H)</small>
+</p></div>
+</div>
+
+<div class="grid">
+<div>
+  <h2>Features</h2>
+  <ul>
+    <li><a href="#configure">Configure</a> (and reconfigure) in a few
+    seconds using any smartphone, tablet, workstation/laptop running
+    Windows, Mac or Linux. <a
+    href="https://github.com/oxplot/fpx/tree/master/configurer/arduino">Arduino</a>
+    and your projector will do too!
+    <li>Up to 100W (20V @ 5A) output.<sup>*</sup>
+    <li>Voltages: 5V, 9V, 12V, 15V and 20V.<sup>*</sup>
+    <li>Currents: 0.5A‑5A in 0.25A steps.<sup>*</sup>
+    <li>M2 mounting holes.
+    <li>Reverse voltage, over-voltage &amp; ESD protection on USB pins
+    and output terminals.
+    <li>Supply line discharge on cable detachment and voltage changes.
+    <li>Supply voltage monitoring and auto‑shutoff (protection against <a
+    href="https://hackaday.com/2020/07/22/badpower-vulnerability-in-fast-chargers-might-make-phones-halt-and-catch-fire/">malicious</a>
+    or misbehaving sources).
+    <li>ATtiny based <a href="https://github.com/oxplot/fpx">open source
+    hardware, firmware and configuration tool</a>.
+  </ul>
+</div>
+<div>
+  <h2>Benefits</h2>
+  <ul>
+    <li>Expand the type of projects you can do with easy and safe power
+    up to 100 watts.<sup>*</sup>
+    <li>Power your devices by your car adapter and on the go with a
+    power bank, instead of only with the wall adapters they came with.
+    <li>Power more of your portable devices with a single adapter when
+    travelling.
+    <li>One set of USB‑C adapters means backup power for every USB‑C
+    powered device you have.
+    <li>Re‑use your high quality USB‑C adapters and save space storing
+    random bricks and save time looking for them.
+    <li>Freedom to pick what length of cable to use at any given time.
+    <li>Replace damaged cables only, not entire adapters.
+  </ul>
+</div>
+</div>
+
+<p><small><em><sup>*</sup> available voltage, current and output power
+depend on capabilities provided by your power source</em></small></p>
+
+<article>
+<h2><a rel="noopener" target="_blank" href="https://www.tindie.com/products/20867/">Purchase</a>
+ready to use modules for $20</h2>
+
+<div class="grid">
+<div>
+  <p>
+  <a rel="noopener" target="_blank" href="https://www.tindie.com/products/20867/"><img
+  src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png"
+  alt="I sell on Tindie" width="200" height="104"></a>
+  </p>
+</div>
+<div>
+  <p>
+  You’ll be getting a tested, high quality module with ENIG finish and
+  <a href="https://www.worthingtonassembly.com/">assembled in the USA</a>,
+  while at the same time supporting this project. Alternatively, you can
+  send the <a href="https://github.com/oxplot/fpx">open source design</a>
+  for manufacturing yourself.
+  </p>
+</div>
+</div>
+</article>
+
+<h2 id="configure">Configure</h2>
+
+<div class="grid">
+<div>
+  <p>
+  The board has a sensor which reads your desired configuration from the
+  light pulses generated on this page and stores them on the onboard NVM.
+  You can therefore configure your board from any device with a screen and
+  a Javascript capable browser, without any special cables or wireless
+  pairing. Watch the how-to video or jump right into it below. <a
+  href="https://blog.oxplot.com/fpx">Learn more about fpx at my blog</a>.
+  </p>
+</div>
+<div>
+  <div style="margin-bottom: 2rem">
+  <a id="guide-link" target="_blank" rel="noopener" style="display:block"
+    href="https://www.youtube.com/watch?v=5ij_mtj6CPs">
+    <img alt="Guide video placeholder" src="youtube-placeholder.svg" style="width:100%">
+  </a>
+  <script>
+  (function() {
+    document.getElementById("guide-link").addEventListener("click", function(e) {
+      e.preventDefault();
+      this.outerHTML = `<div style="position:relative;width:100%;height:0;padding-bottom: 56%">
+<iframe style="position:absolute;width:100%;height:100%;left:0;top:0;"
+width="1" height="1" src="https://www.youtube.com/embed/5ij_mtj6CPs?autoplay=1"
+frameborder="0" allow="accelerometer; autoplay; encrypted-media;
+gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>`;
+    });
+  })();
+  </script>
+  </div>
+</div>
+</div>
+
+<form>
+<div class="grid">
+<div>
+  <h3>1st preference</h3>
+  <p>
+  <label for="v1">Voltage:</label>
+  <select id="v1">
+    <option value="000">5 V</option>
+    <option value="001">9 V</option>
+    <option value="010">12 V</option>
+    <option value="011">15 V</option>
+    <option value="100">20 V</option>
+  </select>
+  <label for="i1">Maximum Current:</label>
+  <select id="i1">
+    <option value="0001">0.50 A</option>
+    <option value="0010">0.75 A</option>
+    <option value="0011">1.00 A</option>
+    <option value="0100">1.25 A</option>
+    <option value="0101">1.50 A</option>
+    <option value="0110">1.75 A</option>
+    <option value="0111">2.00 A</option>
+    <option value="1000">2.25 A</option>
+    <option value="1001">2.50 A</option>
+    <option value="1010">2.75 A</option>
+    <option value="1011">3.00 A</option>
+    <option value="1100">3.50 A (🔌)</option>
+    <option value="1101">4.00 A (🔌)</option>
+    <option value="1110">4.50 A (🔌)</option>
+    <option value="1111">5.00 A (🔌)</option>
+  </select>
+  <small>🔌 = requires <a rel="noopener" target="_blank"
+  href="https://en.wikipedia.org/wiki/USB-C#Cables">marked
+  cable</a></small>
+  </p>
+</div>
+<div>
+  <h3>2nd preference</h3>
+  <p>
+  <label for="v2">Voltage:</label>
+  <select id="v2">
+    <option value="000">5 V</option>
+    <option value="001">9 V</option>
+    <option value="010">12 V</option>
+    <option value="011">15 V</option>
+    <option value="100">20 V</option>
+  </select>
+  <label for="i2">Maximum Current:</label>
+  <select id="i2">
+    <option value="0001">0.50 A</option>
+    <option value="0010">0.75 A</option>
+    <option value="0011">1.00 A</option>
+    <option value="0100">1.25 A</option>
+    <option value="0101">1.50 A</option>
+    <option value="0110">1.75 A</option>
+    <option value="0111">2.00 A</option>
+    <option value="1000">2.25 A</option>
+    <option value="1001">2.50 A</option>
+    <option value="1010">2.75 A</option>
+    <option value="1011">3.00 A</option>
+    <option value="1100">3.50 A (🔌)</option>
+    <option value="1101">4.00 A (🔌)</option>
+    <option value="1110">4.50 A (🔌)</option>
+    <option value="1111">5.00 A (🔌)</option>
+  </select>
+  </p>
+</div>
+</div>
+
+<h3><label for="pd-req">Fallback</label></h3>
+<p>
+<select id="pd-req">
+  <option value="1">Disable output if no preferences matches</option>
+  <option value="0">Fallback to 5 V with min. 100 mA</option>
+</select>
+</p>
+
+<article>
+<ol>
+  <li>Turn your screen brightness to maximum.
+  <li>Connect the module to a power source.
+  <li>Hold the module against the screen (touching) in the center of the
+  box below with the connector side of the board facing you.
+  <li>Press Configure and wait until the <strong style="color:
+  #388e3c">green light</strong> on the board flashes. If it doesn’t, repeat
+  this step.
+</ol>
+<p><em>NOTE: strong ambient light (especially from sun and
+tungsten bulbs) can interfere with the sensor</em></p>
+</article>
+
+<p style="text-align: center;">
+  <strong>WARNING: fast flashing background</strong>
+</p>
+
+<p id="box" style="border:2px solid var(--input-border);border-radius:0.25rem;height:400px;"> </p>
+
+<p id="js-warning">
+You must have Javascript enabled to use the configuration functionality.
+</p>
+<p>
+<button type="button" id="program" disabled>Configure</button>
+</p>
+
+<p>
+<em>Pro Tip: Cover the sensor/enclose the board in an opaque enclosure,
+to prevent malicious/accidental re-configuration</em>
+</p>
+
+</form>
+
+</main>
+<script>
+
+(function(){
+  var boxEl = document.getElementById("box");
+  var progEl = document.getElementById("program");
+  var pulses;
+  var curPulse;
+
+  progEl.disabled = false;
+  document.getElementById("js-warning").style.display = "none";
+
+  var txPulse = function() {
+    boxEl.style.background = pulses[curPulse] == "0" ? "#000" : "#fff";
+    curPulse++;
+    if (curPulse == pulses.length) {
+      boxEl.style.background = "var(--background)";
+      progEl.disabled = false;
+      return;
+    }
+    window.requestAnimationFrame(txPulse);
+  };
+  var crc16 = function(bytes) {
+    var crc = 0;
+    bytes.map(function(b) {
+      crc = crc ^ (b << 8);
+      for (var i = 0; i < 8; i++) {
+        crc <<= 1;
+        if (crc & 0x10000) {
+          crc = (crc ^ 0x1021) & 0xffff;
+        }
+      }
+    });
+    return [crc >> 8, crc & 0xff];
+  };
+  var revByte = function(b) {
+    b = (b & 0xF0) >> 4 | (b & 0x0F) << 4;
+    b = (b & 0xCC) >> 2 | (b & 0x33) << 2;
+    b = (b & 0xAA) >> 1 | (b & 0x55) << 1;
+    return b;
+  };
+  progEl.addEventListener("click", function() {
+    var v1 = parseInt(document.getElementById("v1").value, 2);
+    var i1 = parseInt(document.getElementById("i1").value, 2);
+    var v2 = parseInt(document.getElementById("v2").value, 2);
+    var i2 = parseInt(document.getElementById("i2").value, 2);
+    var pdReq = parseInt(document.getElementById("pd-req").value, 2);
+    var bytes = [(v1 << 4) | i1, (pdReq << 7) | (v2 << 4) | i2];
+    var revChkSum = crc16(bytes).map(b => revByte(b));
+    var bits = "10101010".repeat(2) + bytes.concat(revChkSum).map(
+      i => i.toString(2).padStart(8, "0")
+    ).join("") + "0";
+    pulses = Array.from(bits).map(
+      x => (x == "0") ? "100" : "111000"
+    ).join("") + "1";
+    curPulse = 0;
+    progEl.disabled = true;
+    window.requestAnimationFrame(txPulse);
+  });
+})();
+</script>
+</body>
+</html>
