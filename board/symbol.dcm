@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESDA25P35
+D Low capacitance unidirectional quadruple ESD protection diode array, 3.3V, Common Anode, SOT-886
+K diode
+F https://assets.nexperia.com/documents/data-sheet/PESDXL4UF_G_W.pdf
+$ENDCMP
+#
+$CMP ESDA25W
+D TVS Diode Array, 5.5V Standoff, 2 Channels, SC-70 package
+K usb esd protection suppression transient
+F http://www.littelfuse.com/~/media/files/littelfuse/technical%20resources/documents/data%20sheets/sp05xxba.pdf
+$ENDCMP
+#
+$CMP MCP1799T-3302H_TT
+D 250mA Low Quiscent Current LDO, 3.0V output, SOT-23
+K regulator linear ldo
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001826D.pdf
+$ENDCMP
+#
+$CMP PESD5V0L4UF
+D Low capacitance unidirectional quadruple ESD protection diode array, 5.0V, Common Anode, SOT-886
+K diode
+F https://assets.nexperia.com/documents/data-sheet/PESDXL4UF_G_W.pdf
+$ENDCMP
+#
+#End Doc Library
