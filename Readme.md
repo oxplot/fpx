@@ -32,3 +32,9 @@ encoding used to transfer configuration using light flashes.
 Due to its simplicity, the configuration tool can be ported to any
 device/platform that can pulse light with a reasonable timing accuracy
 (e.g. Arduino).
+
+## History
+
+[See my blog post](https://blog.oxplot.com/fpx) about fpx and its
+predecessor
+[fabpide2](https://blog.oxplot.com/usb-pd-standalone-sink-controller/).
