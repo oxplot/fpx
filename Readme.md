@@ -9,7 +9,7 @@ Main enabling component of fpx is
 [STUSB4500](https://blog.oxplot.com/usb-pd-standalone-sink-controller/)
 standalone USB-PD IC by STMicroelectronics.
 
-The rest are supporting components and an AVR ATtiny 186 which programs
+The rest are supporting components and an AVR ATtiny 816 which programs
 the NVM flash on STUSB4500 by converting configuration read from
 a light sensor.
 
