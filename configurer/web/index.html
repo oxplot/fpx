@@ -314,7 +314,7 @@ to prevent malicious/accidental re-configuration</em>
       i => i.toString(2).padStart(8, "0")
     ).join("") + "0";
     pulses = Array.from(bits).map(
-      x => (x == "0") ? "10" : "1100"
+      x => (x == "0") ? "1100" : "11110000"
     ).join("") + "1";
     curPulse = 0;
     progEl.disabled = true;
