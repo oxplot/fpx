@@ -4,3 +4,5 @@ ready for manufacturing and they include part numbers as well.
 ![fpx schematics](./schematics.png)
 
 ![fpx pcb front side](./pcb-front.png) ![fpx pcb back side](./pcb-back.png)
+
+![open source hardware mark](./oshw.svg) fpx is certified open source hardware
