@@ -7,14 +7,14 @@ module](https://fpx.oxplot.com).
 
 Main enabling component of fpx is
 [STUSB4500](https://blog.oxplot.com/usb-pd-standalone-sink-controller/)
-standalone USB-PD IC by STMicroelectronics.
-
-The rest are supporting components and an AVR ATtiny 816 which programs
-the NVM flash on STUSB4500 by converting configuration read from
-a light sensor.
+standalone USB-PD IC by STMicroelectronics. The rest are supporting
+components and an AVR ATtiny 816 which programs the NVM flash on
+STUSB4500 by converting configuration read from a light sensor.
 
 [The KiCad files](./board) are verified for manufacturing, and include
 all the part numbers.
+
+*fpx* is a certified open hardware [OSHW] AU000008 - [oshwa.org/cert](oshwa.org/cert)
 
 ## Firmware
 
