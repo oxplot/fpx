@@ -33,6 +33,10 @@ Due to its simplicity, the configuration tool can be ported to any
 device/platform that can pulse light with a reasonable timing accuracy
 (e.g. Arduino).
 
+## Licensing
+
+All the content of this repo including the documentation, hardward design files, firmware and configuration utilities are licensed under the [Revised BSD license](./LICENSE).
+
 ## History
 
 [See my blog post](https://blog.oxplot.com/fpx) about fpx and its
