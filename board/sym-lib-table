@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name symbol)(type Legacy)(uri ${KIPRJMOD}/symbol.lib)(options "")(descr ""))
+  (lib (name fpx-rescue)(type Legacy)(uri ${KIPRJMOD}/fpx-rescue.lib)(options "")(descr ""))
 )
