@@ -24,4 +24,10 @@ K diode
 F https://assets.nexperia.com/documents/data-sheet/PESDXL4UF_G_W.pdf
 $ENDCMP
 #
+$CMP Q_Photo_NPN_EC
+D NPN phototransistor, emitter/collector
+K phototransistor NPN
+F ~
+$ENDCMP
+#
 #End Doc Library

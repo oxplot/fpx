@@ -50,7 +50,7 @@ F 4 "150060VS75000" V 7198 4483 50  0000 R CNN "MPN"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:Q_Photo_NPN_EC Q2
+L symbol:Q_Photo_NPN_EC Q2
 U 1 1 5E9ACDAF
 P 9450 4100
 F 0 "Q2" H 9641 4146 50  0000 L CNN
