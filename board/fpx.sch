@@ -54,11 +54,11 @@ $Comp
 L symbol:Q_Photo_NPN_EC Q2
 U 1 1 5E9ACDAF
 P 9450 4100
-F 0 "Q2" H 9641 4146 50  0000 L CNN
+F 0 "Q2" H 9250 4050 50  0000 L CNN
 F 1 "Q_Photo_NPN" H 9640 4055 50  0001 L CNN
 F 2 "fpx:Phototransistor_0603_1608Metric" H 9650 4200 50  0001 C CNN
 F 3 "~" H 9450 4100 50  0001 C CNN
-F 4 "ALS-PT19-315C/L177/TR8" H 9641 4055 50  0000 L CNN "MPN"
+F 4 "ALS-PT19-315C/L177/TR8" H 9650 4100 50  0000 L CNN "MPN"
 	1    9450 4100
 	1    0    0    -1  
 $EndComp
@@ -918,4 +918,6 @@ F 4 "CL10A105KA8NNNC" H 3650 1950 50  0001 C CNN "MPN"
 	1    3650 1950
 	0    1    1    0   
 $EndComp
+Text Notes 9650 4350 0    50   ~ 0
+* Incorrect schematics in datasheet.\n* Refer to C & E marking on PCB.
 $EndSCHEMATC
