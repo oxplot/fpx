@@ -22,6 +22,7 @@ F 1 "ATtiny816-M" H 8350 3250 50  0001 C CNN
 F 2 "Package_DFN_QFN:VQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm" H 8350 3200 50  0001 C CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/40001913A.pdf" H 8350 3200 50  0001 C CNN
 F 4 "ATTINY816-MNR" H 8350 3200 50  0000 C CNN "MPN"
+F 5 "ATTINY416-MNR" H 8350 3200 50  0001 C CNN "Alternative"
 	1    8350 3200
 	1    0    0    -1  
 $EndComp
