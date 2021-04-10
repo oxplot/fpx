@@ -70,7 +70,7 @@ def main():
     if order["Shipping Method"] != "Australia Post Letter":
       print("Skipping tracked item", file=sys.stderr)
       continue
-    path = os.path.join(config['output_dir'], order["Order ID"] + ".svg")
+    path = os.path.join(config['output_dir'], "fpx_order_" + order["Order ID"] + ".svg")
     with open(path, 'w') as f:
       f.write(field_pat.sub(gen_sub(order, config['extra_fields']), tpl))
   
