@@ -26,32 +26,55 @@ def find_country_code_by_name(name):
   return find_country_code_by_name._cache[name.lower()]
 
 def get_shipping_cost_for_country(country):
-  country_code = find_country_code_by_name(country)
-  return requests.get(
-    'https://digitalapi.auspost.com.au/postage/letter/international/calculate',
-    headers={'auth-key': config['auspost_api_key']},
-    params={'country_code': country_code, 'service_code': 'INT_LETTER_AIR_OWN_PACKAGING_LIGHT'},
-  ).json()['postage_result']['costs']['cost']['cost']
+  if country == 'Australia':
+    return requests.get(
+      'https://digitalapi.auspost.com.au/postage/letter/domestic/calculate.json',
+      headers={'auth-key': config['auspost_api_key']},
+      params={'weight': '60', 'service_code': 'AUS_LETTER_REGULAR_LARGE_125'},
+    ).json()['postage_result']['costs']['cost']['cost']
+  else:
+    country_code = find_country_code_by_name(country)
+    return requests.get(
+      'https://digitalapi.auspost.com.au/postage/letter/international/calculate',
+      headers={'auth-key': config['auspost_api_key']},
+      params={'country_code': country_code, 'service_code': 'INT_LETTER_AIR_OWN_PACKAGING_LIGHT'},
+    ).json()['postage_result']['costs']['cost']['cost']
 
-def gen_sub(row, extra_fields={}):
+def address_lines_for_order(order):
+  lines = {
+    "address_1": order["First Name"] + " " + order["Last Name"],
+    "address_2": order["Street"],
+  }
+  if order['Country'] == 'Australia':
+    lines.update({
+      "address_3": f'{order["City"]} {order["State / Province"]} {order["Postal/Zip Code"]}'.upper(),
+      'address_4': '',
+      'address_5': '',
+    })
+  else:
+    lines.update({
+      "address_3": order["City"],
+      "address_4": order["State / Province"] + ", " + order["Postal/Zip Code"],
+      "address_5": order["Country"],
+    })
+  return lines
+
+def gen_sub(order, extra_fields={}):
   fields = {
     **extra_fields,
-    "first_name": row["First Name"],
-    "address_1": row["First Name"] + " " + row["Last Name"],
-    "address_2": row["Street"],
-    "address_3": row["City"],
-    "address_4": row["State / Province"] + ", " + row["Postal/Zip Code"],
-    "address_5": row["Country"],
-    "phone": row["Phone"],
-    "email": row["Email"],
-    "invoice": row["Order ID"],
+    **address_lines_for_order(order),
+    "first_name": order["First Name"],
+    "phone": order["Phone"],
+    "email": order["Email"],
+    "invoice": order["Order ID"],
     "c": BOARD_COST,
-    "tc": BOARD_COST * int(row["Quantity"]),
+    "tc": BOARD_COST * int(order["Quantity"]),
     "w": BOARD_WEIGHT,
-    "tw": BOARD_WEIGHT * int(row["Quantity"]),
-    "q": int(row["Quantity"]),
+    "tw": BOARD_WEIGHT * int(order["Quantity"]),
+    "q": int(order["Quantity"]),
     "date": time.strftime("%Y-%m-%d"),
-    "shipping_cost": get_shipping_cost_for_country(row["Country"]),
+    "shipping_cost": get_shipping_cost_for_country(order["Country"]),
+    "customs_decl_style": "display:none" if order['Country'] == 'Australia' else '',
   }
   return lambda m: str(fields[m.group(1)])
 
@@ -67,8 +90,11 @@ def main():
   field_pat = re.compile(r'\$([^$]+)\$')
 
   for order in csv.DictReader(sys.stdin):
-    if order["Country"].lower() == 'australia' or order["Shipping Method"] != "Australia Post Letter":
-      print("Skipping local/tracked item", file=sys.stderr)
+    if order["Shipping Method"] != "Australia Post Letter":
+      print("Skipping parcel item %s" % order["Order ID"], file=sys.stderr)
+      continue
+    if int(order["Quantity"]) > 5:
+      print("Order %s has more than 5 items - skipping" % order["Order ID"], file=sys.stderr)
       continue
     path = os.path.join(config['output_dir'], "fpx_order_" + order["Order ID"] + ".svg")
     with open(path, 'w') as f:

@@ -49,7 +49,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3364462"
+     inkscape:zoom="1.355116"
      inkscape:cx="417.5669"
      inkscape:cy="576.77305"
      inkscape:document-units="mm"
@@ -112,179 +112,6 @@
          x="15"
          y="148.97996"><tspan
            style="shape-inside:url(#rect957)">$address_5$</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.87763px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       x="120.64217"
-       y="108.48838"
-       id="text965"><tspan
-         sodipodi:role="line"
-         id="tspan963"
-         x="120.64217"
-         y="108.48838"
-         style="fill:#000000;stroke-width:0.065">Customs Declaration (CN22)</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 120.96136,120.16057 h 61.70398"
-       id="path981"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 120.96136,124.64659 h 61.70398"
-       id="path983"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 156.55148,116.72709 v 12.03146"
-       id="path985"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       x="148.63272"
-       y="128.29401"
-       id="text989"><tspan
-         sodipodi:role="line"
-         id="tspan987"
-         x="148.63272"
-         y="128.29401"
-         style="stroke-width:0.065">total</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 168.11476,116.72709 v 12.03146"
-       id="path991"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       x="121.09373"
-       y="119.46828"
-       id="text995"><tspan
-         sodipodi:role="line"
-         id="tspan993"
-         x="121.09373"
-         y="119.46828"
-         style="stroke-width:0.065">quantity × description</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       x="157.44072"
-       y="119.46828"
-       id="text1003"><tspan
-         sodipodi:role="line"
-         id="tspan1001"
-         x="157.44072"
-         y="119.46828"
-         style="stroke-width:0.065">weight</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       x="171.3502"
-       y="119.46828"
-       id="text1007"><tspan
-         sodipodi:role="line"
-         id="tspan1005"
-         x="171.3502"
-         y="119.46828"
-         style="stroke-width:0.065">value</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       x="121.60683"
-       y="123.9172"
-       id="text1011"><tspan
-         sodipodi:role="line"
-         id="tspan1009"
-         x="121.60683"
-         y="123.9172"
-         style="stroke-width:0.065">$q$ × electronics board</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       x="165.63661"
-       y="123.20143"
-       id="text1015"><tspan
-         sodipodi:role="line"
-         id="tspan1013"
-         x="165.63661"
-         y="123.20143"
-         style="stroke-width:0.065">g</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       x="176.45747"
-       y="123.9172"
-       id="text1019"><tspan
-         sodipodi:role="line"
-         id="tspan1017"
-         x="176.45747"
-         y="123.9172"
-         style="stroke-width:0.065">USD</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       x="121.09589"
-       y="113.00372"
-       id="text1044"><tspan
-         sodipodi:role="line"
-         id="tspan1042"
-         x="121.09589"
-         y="113.00372"
-         style="stroke-width:0.065">type: sale of goods</tspan></text>
-    <text
-       xml:space="preserve"
-       id="text1050"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';white-space:pre;shape-inside:url(#rect1052);fill:#000000;stroke:none;stroke-width:0.0937799;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;"
-       transform="matrix(0.69311193,0,0,0.69311193,-80.24109,48.767271)"><tspan
-         x="291.01367"
-         y="135.00617"><tspan
-           style="font-size:4.7625px;stroke-width:0.0937799">I, the undersigned, whose name and address are provided </tspan></tspan><tspan
-         x="291.01367"
-         y="140.95929"><tspan
-           style="font-size:4.7625px;stroke-width:0.0937799">on the top left, certify that the particulars given in this </tspan></tspan><tspan
-         x="291.01367"
-         y="146.91242"><tspan
-           style="font-size:4.7625px;stroke-width:0.0937799">declaration are correct and that this item does not contain </tspan></tspan><tspan
-         x="291.01367"
-         y="152.86554"><tspan
-           style="font-size:4.7625px;stroke-width:0.0937799">any dangerous articles prohibited by legislation or by </tspan></tspan><tspan
-         x="291.01367"
-         y="158.81867"><tspan
-           style="font-size:4.7625px;stroke-width:0.0937799">postal or customs regulations.</tspan></tspan></text>
-    <g
-       id="g1122"
-       transform="translate(-15.829265,-8.7469228)">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 137.90911,175.56582 c 0.43305,-0.002 0.10364,0.76234 0.39688,0.92604 0.0504,0.0281 0.0708,-0.0966 0.1224,-0.1224 0.43982,-0.21992 0.42677,-0.011 0.89637,-0.38699 1.56569,-1.2536 1.69515,-2.95751 2.461,-4.67277 0.13506,-0.30248 0.29148,-0.89932 0.52923,-1.19085 0.0216,-0.0264 0.005,0.0686 0,0.10237 -0.0352,0.25264 -0.096,0.50186 -0.11967,0.75584 -0.0682,0.73194 -0.12794,3.00151 0.52917,3.43958 0.46084,0.30723 0.81742,-0.3718 0.92604,-0.66145 0.20391,-0.54375 0.30789,-4.00432 0.52917,-4.09534 0.14173,-0.0583 -0.0426,2.22215 -0.0426,2.31317 0,0.50411 -0.0221,1.12432 0.13229,1.5875 0.0102,0.0307 0.48228,1.07997 0.48228,0.67376"
-         id="path1116" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 148.18002,172.83624 c -1.38924,-0.21497 -2.72703,1.12861 -1.23671,2.13657 0.37353,0.25264 0.63079,-2.6932 1.23671,-2.13657 0.22175,0.20371 -0.30373,0.5362 -0.34639,0.83427 -0.0319,0.22258 0.10049,0.43887 0.13229,0.66146 0.0125,0.0873 -0.0394,0.1857 0,0.26458 0.37083,0.74166 0.85553,0.2811 1.18749,-0.13386 0.0779,-0.0974 0.23032,-0.14465 0.26458,-0.26458 0.11256,-0.39394 -0.19214,-1.09337 0.13229,-1.45521 0.0555,-0.0619 -0.0163,0.16784 0,0.24933 0.0258,0.12886 0.0831,0.24933 0.12467,0.37399 0.0354,0.10609 0.57779,1.80346 0.92604,1.45521 0.43801,-0.438 0.59104,-1.42109 0.66146,-1.98437 0.004,-0.0301 -0.0879,-0.72409 0.12336,-0.52917 0.0119,0.0109 0.18372,1.35587 0.52916,1.70132 0.14138,0.14138 1.47092,1.11662 1.05834,1.32292 -0.40197,0.20098 -1.40137,-1.00912 -1.32292,-1.32292 0.048,-0.19209 0.60791,-0.74729 0.79375,-0.79375 0.17112,-0.0428 0.36183,0.0558 0.52917,0 0.23374,-0.0779 0.23859,-0.3745 0.39687,-0.39688 0.15967,-0.0226 0,0.32251 0,0.48376 0,0.38882 -0.17813,1.13427 0.13229,1.45521 0.19286,0.19938 0.60351,-0.49232 0.62779,-0.63804 0.13236,-0.79413 -0.26458,-0.80399 -0.26458,-1.32291 0,-0.0339 -0.0161,0.0719 0,0.10173 0.0493,0.0917 0.29233,0.33769 0.38303,0.38304 0.60039,0.30019 1.25194,-0.0388 1.5875,-0.3735 0.42455,-0.42351 -0.0338,2.11782 0.63672,2.11504 0.50418,-0.002 0.76073,-1.23977 0.79211,-1.5875 0.0283,-0.314 -0.0929,-1.15718 0.13229,-0.93654 0.36716,0.35974 0.26686,1.36878 0.65173,1.56805 0.45545,0.2358 0.34204,-1.18737 0.76169,-0.76771 0.50429,0.50429 0.31034,0.72246 0.66146,1.19062 0.0748,0.0998 0.19311,0.16237 0.26458,0.26459 0.0217,0.0311 -0.0263,0.14115 0,0.11381 0.29466,-0.30615 0.38301,-2.39709 0.38301,-2.99416"
-         id="path1118" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.60433px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       x="173.79135"
-       y="165.96826"
-       id="text1130"><tspan
-         sodipodi:role="line"
-         x="173.79135"
-         y="165.96826"
-         style="stroke-width:0.065"
-         id="tspan936">$date$</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       x="121.09589"
-       y="134.80592"
-       id="text1134"><tspan
-         sodipodi:role="line"
-         id="tspan1132"
-         x="121.09589"
-         y="134.80592"
-         style="stroke-width:0.065">shipment cost: $shipping_cost$ AUD</tspan></text>
     <image
        width="17.671751"
        height="17.671751"
@@ -393,72 +220,248 @@
         </g>
       </g>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       x="157.28798"
-       y="123.80599"
-       id="text6611"><tspan
-         sodipodi:role="line"
-         id="tspan6609"
+    <g
+       id="g_customs" style="$customs_decl_style$">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.87763px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         x="120.64217"
+         y="108.48838"
+         id="text965"><tspan
+           sodipodi:role="line"
+           id="tspan963"
+           x="120.64217"
+           y="108.48838"
+           style="fill:#000000;stroke-width:0.065">Customs Declaration (CN22)</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 120.96136,120.16057 h 61.70398"
+         id="path981"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 120.96136,124.64659 h 61.70398"
+         id="path983"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 156.55148,116.72709 v 12.03146"
+         id="path985"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         x="148.63272"
+         y="128.29401"
+         id="text989"><tspan
+           sodipodi:role="line"
+           id="tspan987"
+           x="148.63272"
+           y="128.29401"
+           style="stroke-width:0.065">total</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 168.11476,116.72709 v 12.03146"
+         id="path991"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         x="121.09373"
+         y="119.46828"
+         id="text995"><tspan
+           sodipodi:role="line"
+           id="tspan993"
+           x="121.09373"
+           y="119.46828"
+           style="stroke-width:0.065">quantity × description</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         x="157.44072"
+         y="119.46828"
+         id="text1003"><tspan
+           sodipodi:role="line"
+           id="tspan1001"
+           x="157.44072"
+           y="119.46828"
+           style="stroke-width:0.065">weight</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         x="171.3502"
+         y="119.46828"
+         id="text1007"><tspan
+           sodipodi:role="line"
+           id="tspan1005"
+           x="171.3502"
+           y="119.46828"
+           style="stroke-width:0.065">value</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         x="121.60683"
+         y="123.9172"
+         id="text1011"><tspan
+           sodipodi:role="line"
+           id="tspan1009"
+           x="121.60683"
+           y="123.9172"
+           style="stroke-width:0.065">$q$ × electronics board</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         x="165.63661"
+         y="123.20143"
+         id="text1015"><tspan
+           sodipodi:role="line"
+           id="tspan1013"
+           x="165.63661"
+           y="123.20143"
+           style="stroke-width:0.065">g</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         x="176.45747"
+         y="123.9172"
+         id="text1019"><tspan
+           sodipodi:role="line"
+           id="tspan1017"
+           x="176.45747"
+           y="123.9172"
+           style="stroke-width:0.065">USD</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         x="121.09589"
+         y="113.00372"
+         id="text1044"><tspan
+           sodipodi:role="line"
+           id="tspan1042"
+           x="121.09589"
+           y="113.00372"
+           style="stroke-width:0.065">type: sale of goods</tspan></text>
+      <text
+         xml:space="preserve"
+         id="text1050"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';white-space:pre;shape-inside:url(#rect1052);fill:#000000;stroke:none;stroke-width:0.0937799;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(0.69311193,0,0,0.69311193,-80.24109,48.767271)"><tspan
+           x="291.01367"
+           y="135.00617"><tspan
+             style="font-size:4.7625px;stroke-width:0.0937799">I, the undersigned, whose name and address are provided </tspan></tspan><tspan
+           x="291.01367"
+           y="140.95929"><tspan
+             style="font-size:4.7625px;stroke-width:0.0937799">on the top left, certify that the particulars given in this </tspan></tspan><tspan
+           x="291.01367"
+           y="146.91242"><tspan
+             style="font-size:4.7625px;stroke-width:0.0937799">declaration are correct and that this item does not contain </tspan></tspan><tspan
+           x="291.01367"
+           y="152.86554"><tspan
+             style="font-size:4.7625px;stroke-width:0.0937799">any dangerous articles prohibited by legislation or by </tspan></tspan><tspan
+           x="291.01367"
+           y="158.81867"><tspan
+             style="font-size:4.7625px;stroke-width:0.0937799">postal or customs regulations.</tspan></tspan></text>
+      <g
+         id="g1122"
+         transform="translate(-15.829265,-8.7469228)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 137.90911,175.56582 c 0.43305,-0.002 0.10364,0.76234 0.39688,0.92604 0.0504,0.0281 0.0708,-0.0966 0.1224,-0.1224 0.43982,-0.21992 0.42677,-0.011 0.89637,-0.38699 1.56569,-1.2536 1.69515,-2.95751 2.461,-4.67277 0.13506,-0.30248 0.29148,-0.89932 0.52923,-1.19085 0.0216,-0.0264 0.005,0.0686 0,0.10237 -0.0352,0.25264 -0.096,0.50186 -0.11967,0.75584 -0.0682,0.73194 -0.12794,3.00151 0.52917,3.43958 0.46084,0.30723 0.81742,-0.3718 0.92604,-0.66145 0.20391,-0.54375 0.30789,-4.00432 0.52917,-4.09534 0.14173,-0.0583 -0.0426,2.22215 -0.0426,2.31317 0,0.50411 -0.0221,1.12432 0.13229,1.5875 0.0102,0.0307 0.48228,1.07997 0.48228,0.67376"
+           id="path1116" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 148.18002,172.83624 c -1.38924,-0.21497 -2.72703,1.12861 -1.23671,2.13657 0.37353,0.25264 0.63079,-2.6932 1.23671,-2.13657 0.22175,0.20371 -0.30373,0.5362 -0.34639,0.83427 -0.0319,0.22258 0.10049,0.43887 0.13229,0.66146 0.0125,0.0873 -0.0394,0.1857 0,0.26458 0.37083,0.74166 0.85553,0.2811 1.18749,-0.13386 0.0779,-0.0974 0.23032,-0.14465 0.26458,-0.26458 0.11256,-0.39394 -0.19214,-1.09337 0.13229,-1.45521 0.0555,-0.0619 -0.0163,0.16784 0,0.24933 0.0258,0.12886 0.0831,0.24933 0.12467,0.37399 0.0354,0.10609 0.57779,1.80346 0.92604,1.45521 0.43801,-0.438 0.59104,-1.42109 0.66146,-1.98437 0.004,-0.0301 -0.0879,-0.72409 0.12336,-0.52917 0.0119,0.0109 0.18372,1.35587 0.52916,1.70132 0.14138,0.14138 1.47092,1.11662 1.05834,1.32292 -0.40197,0.20098 -1.40137,-1.00912 -1.32292,-1.32292 0.048,-0.19209 0.60791,-0.74729 0.79375,-0.79375 0.17112,-0.0428 0.36183,0.0558 0.52917,0 0.23374,-0.0779 0.23859,-0.3745 0.39687,-0.39688 0.15967,-0.0226 0,0.32251 0,0.48376 0,0.38882 -0.17813,1.13427 0.13229,1.45521 0.19286,0.19938 0.60351,-0.49232 0.62779,-0.63804 0.13236,-0.79413 -0.26458,-0.80399 -0.26458,-1.32291 0,-0.0339 -0.0161,0.0719 0,0.10173 0.0493,0.0917 0.29233,0.33769 0.38303,0.38304 0.60039,0.30019 1.25194,-0.0388 1.5875,-0.3735 0.42455,-0.42351 -0.0338,2.11782 0.63672,2.11504 0.50418,-0.002 0.76073,-1.23977 0.79211,-1.5875 0.0283,-0.314 -0.0929,-1.15718 0.13229,-0.93654 0.36716,0.35974 0.26686,1.36878 0.65173,1.56805 0.45545,0.2358 0.34204,-1.18737 0.76169,-0.76771 0.50429,0.50429 0.31034,0.72246 0.66146,1.19062 0.0748,0.0998 0.19311,0.16237 0.26458,0.26459 0.0217,0.0311 -0.0263,0.14115 0,0.11381 0.29466,-0.30615 0.38301,-2.39709 0.38301,-2.99416"
+           id="path1118" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.60433px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         x="173.79135"
+         y="165.96826"
+         id="text1130"><tspan
+           sodipodi:role="line"
+           x="173.79135"
+           y="165.96826"
+           style="stroke-width:0.065"
+           id="tspan936">$date$</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         x="121.09589"
+         y="134.80592"
+         id="text1134"><tspan
+           sodipodi:role="line"
+           id="tspan1132"
+           x="121.09589"
+           y="134.80592"
+           style="stroke-width:0.065">shipment cost: $shipping_cost$ AUD</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          x="157.28798"
          y="123.80599"
-         style="stroke-width:0.065">$w$</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       x="165.63661"
-       y="127.67324"
-       id="text6615"><tspan
-         sodipodi:role="line"
-         id="tspan6613"
+         id="text6611"><tspan
+           sodipodi:role="line"
+           id="tspan6609"
+           x="157.28798"
+           y="123.80599"
+           style="stroke-width:0.065">$w$</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          x="165.63661"
          y="127.67324"
-         style="stroke-width:0.065">g</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       x="157.28798"
-       y="128.2778"
-       id="text6619"><tspan
-         sodipodi:role="line"
-         id="tspan6617"
+         id="text6615"><tspan
+           sodipodi:role="line"
+           id="tspan6613"
+           x="165.63661"
+           y="127.67324"
+           style="stroke-width:0.065">g</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          x="157.28798"
          y="128.2778"
-         style="stroke-width:0.065">$tw$</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       x="169.10957"
-       y="123.9172"
-       id="text6623"><tspan
-         sodipodi:role="line"
-         id="tspan6621"
+         id="text6619"><tspan
+           sodipodi:role="line"
+           id="tspan6617"
+           x="157.28798"
+           y="128.2778"
+           style="stroke-width:0.065">$tw$</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          x="169.10957"
          y="123.9172"
-         style="stroke-width:0.065">$c$</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       x="176.45747"
-       y="128.33791"
-       id="text6627"><tspan
-         sodipodi:role="line"
-         id="tspan6625"
+         id="text6623"><tspan
+           sodipodi:role="line"
+           id="tspan6621"
+           x="169.10957"
+           y="123.9172"
+           style="stroke-width:0.065">$c$</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          x="176.45747"
          y="128.33791"
-         style="stroke-width:0.065">USD</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       x="169.10957"
-       y="128.33791"
-       id="text6631"><tspan
-         sodipodi:role="line"
-         id="tspan6629"
+         id="text6627"><tspan
+           sodipodi:role="line"
+           id="tspan6625"
+           x="176.45747"
+           y="128.33791"
+           style="stroke-width:0.065">USD</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          x="169.10957"
          y="128.33791"
-         style="stroke-width:0.065">$tc$</tspan></text>
+         id="text6631"><tspan
+           sodipodi:role="line"
+           id="tspan6629"
+           x="169.10957"
+           y="128.33791"
+           style="stroke-width:0.065">$tc$</tspan></text>
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82701px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
