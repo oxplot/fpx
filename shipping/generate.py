@@ -67,8 +67,8 @@ def main():
   field_pat = re.compile(r'\$([^$]+)\$')
 
   for order in csv.DictReader(sys.stdin):
-    if order["Shipping Method"] != "Australia Post Letter":
-      print("Skipping tracked item", file=sys.stderr)
+    if order["Country"].lower() == 'australia' or order["Shipping Method"] != "Australia Post Letter":
+      print("Skipping local/tracked item", file=sys.stderr)
       continue
     path = os.path.join(config['output_dir'], "fpx_order_" + order["Order ID"] + ".svg")
     with open(path, 'w') as f:
