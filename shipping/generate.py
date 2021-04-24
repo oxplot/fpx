@@ -90,7 +90,7 @@ def main():
   field_pat = re.compile(r'\$([^$]+)\$')
 
   for order in csv.DictReader(sys.stdin):
-    if order["Shipping Method"] != "Australia Post Letter":
+    if "Australia Post Letter" not in order["Shipping Method"]:
       print("Skipping parcel item %s" % order["Order ID"], file=sys.stderr)
       continue
     if int(order["Quantity"]) > 5:
