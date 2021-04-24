@@ -9,15 +9,15 @@ program and debug the board using Atmel ICE.
 
 ## Programming Jig
 
-A very rudimentary jig is provided in [STEP](./fpx_rev66_prog_jig.step)
-and [STL](./fpx_rev66_prog_jig.stl) formats, suitable for pogo pins with
+A very rudimentary jig is provided in [STEP](./fpx_rev97_prog_jig.step)
+and [STL](./fpx_rev97_prog_jig.stl) formats, suitable for pogo pins with
 body diameter of 1 mm and compressed length of 14.5 mm. The source model
-is [a public onshape document](https://cad.onshape.com/documents/f66b699467fac012dcd77158/w/a7b99849e050d5e84077c871/e/efc53d333298cbe839427995) which you can copy and make
+is [a public onshape document](https://cad.onshape.com/documents/b7cb965f97967d9fd459e84e/w/75a93212d414af572a197a4d/e/68acf7f0a0742a418e4545b1) which you can copy and make
 modifications to. You will need a free onshape account to make changes.
 The model can be 3D printed using extrusion printers such as Prusa i3,
 without the need for overhang support.
 
-![technical drawing of the programming jig](./fpx_rev66_prog_jig.svg)
+![technical drawing of the programming jig](./fpx_rev97_prog_jig.svg)
 
 The body of pogo pins are exposed on the side of the jig. You will need
 clamp-type test probes or similar to make connections to the programmer
