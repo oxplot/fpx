@@ -1,0 +1,39 @@
+{
+  "short_name": "fpx",
+  "name": "fpx: Easy USB‑C power for all your devices",
+  "icons": [
+    {
+      "src": "/pwa-icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/pwa-icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#10181e",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#fdd835",
+  "shortcuts": [
+    {
+      "name": "Configure fpx",
+      "short_name": "fpx",
+      "url": "/#configure",
+      "icons": [{ "src": "/pwa-icons-192.png", "sizes": "192x192" }]
+    }
+  ],
+  "description": "Configuration utility for fpx, easy USB‑C power for all your devices",
+  "screenshots": [
+    {
+      "src": "/pwa-screenshot1.png",
+      "type": "image/png",
+      "sizes": "1562x826"
+    }
+  ]
+}
