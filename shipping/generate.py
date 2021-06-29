@@ -47,14 +47,14 @@ def address_lines_for_order(order):
   }
   if order['Country'] == 'Australia':
     lines.update({
-      "address_3": f'{order["City"]} {order["State / Province"]} {order["Postal/Zip Code"]}'.upper(),
+      "address_3": f'{order["City"]} {order["State/Province"]} {order["Postal/Zip Code"]}'.upper(),
       'address_4': '',
       'address_5': '',
     })
   else:
     lines.update({
       "address_3": order["City"],
-      "address_4": order["State / Province"] + ", " + order["Postal/Zip Code"],
+      "address_4": order["State/Province"] + ", " + order["Postal/Zip Code"],
       "address_5": order["Country"],
     })
   return lines
