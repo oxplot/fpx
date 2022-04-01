@@ -14,7 +14,8 @@ STUSB4500 by converting configuration read from a light sensor.
 [The KiCad files](./board) are verified for manufacturing, and include
 all the part numbers.
 
-*fpx* is a [certified open hardware](https://oshwa.org/cert) [OSHW] AU000008
+*fpx* is a [certified open
+hardware](https://certification.oshwa.org/au000008.html) [OSHW] AU000008
 
 ## Firmware
 
