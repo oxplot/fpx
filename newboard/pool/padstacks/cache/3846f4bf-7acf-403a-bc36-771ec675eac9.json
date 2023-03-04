@@ -1,0 +1,73 @@
+{
+    "holes": {},
+    "name": "SMD rectangular",
+    "padstack_type": "top",
+    "parameter_program": "get-parameter [ pad_width ]\nget-parameter [ pad_height ]\ndupc dupc\nset-shape [ pad rectangle ]\nget-parameter [ solder_mask_expansion ]\n2 *\n+xy\nset-shape [ mask rectangle ]\n\nget-parameter [ paste_mask_contraction ]\n2 *\n-xy\nset-shape [ paste rectangle ]",
+    "parameter_set": {
+        "pad_height": 900000,
+        "pad_width": 700000,
+        "paste_mask_contraction": 0,
+        "solder_mask_expansion": 100000
+    },
+    "parameters_required": [
+        "pad_width",
+        "pad_height"
+    ],
+    "polygons": {},
+    "shapes": {
+        "888ff92f-96e3-4658-a9cb-1e9626aafe07": {
+            "form": "rectangle",
+            "layer": 30,
+            "parameter_class": "paste",
+            "params": [
+                700000,
+                900000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "ddcf3d29-661b-41d1-ac1a-5e335f94e736": {
+            "form": "rectangle",
+            "layer": 0,
+            "parameter_class": "pad",
+            "params": [
+                700000,
+                900000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "e93f30d7-af52-4284-8af0-b2341ade6c5d": {
+            "form": "rectangle",
+            "layer": 10,
+            "parameter_class": "mask",
+            "params": [
+                900000,
+                1100000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "type": "padstack",
+    "uuid": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+    "well_known_name": "smd rectangular"
+}

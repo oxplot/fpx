@@ -1,0 +1,67 @@
+{
+    "holes": {
+        "9eaa7713-8b92-4be2-9e8e-843e955d3a16": {
+            "diameter": 600000,
+            "length": 500000,
+            "parameter_class": "hole",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            },
+            "plated": false,
+            "shape": "round"
+        }
+    },
+    "name": "Circular mechanical Hole",
+    "padstack_type": "mechanical",
+    "parameter_program": "get-parameter [ hole_diameter ]\ndup\nset-hole [ hole round ]\nget-parameter [ hole_solder_mask_expansion ] 2 *\n+\nset-shape [ mask circle ]",
+    "parameter_set": {
+        "hole_diameter": 600000,
+        "hole_solder_mask_expansion": 100000
+    },
+    "parameters_required": [
+        "hole_diameter"
+    ],
+    "polygons": {},
+    "shapes": {
+        "e6921620-a07c-46c8-aef2-ffcb45896d08": {
+            "form": "circle",
+            "layer": 10,
+            "parameter_class": "mask",
+            "params": [
+                800000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "f9a0c921-ce49-43c6-bca3-7fa003da982d": {
+            "form": "circle",
+            "layer": -110,
+            "parameter_class": "mask",
+            "params": [
+                800000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "type": "padstack",
+    "uuid": "762c84c2-187d-454a-af81-d3381bec5257",
+    "well_known_name": "npth circular"
+}

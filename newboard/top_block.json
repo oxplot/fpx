@@ -1,0 +1,40 @@
+{
+    "block_instance_mappings": {},
+    "block_instances": {},
+    "bom_export_settings": {
+        "concrete_parts": {},
+        "csv_settings": {
+            "columns": [
+                "QTY",
+                "MPN",
+                "value",
+                "manufacturer",
+                "refdes"
+            ],
+            "order": "asc",
+            "sort_column": "refdes"
+        },
+        "orderable_MPNs": {},
+        "output_filename": ""
+    },
+    "buses": {},
+    "components": {},
+    "group_names": {},
+    "name": "Top",
+    "net_class_default": "bff09953-5919-466b-be6c-3c33756e5c2b",
+    "net_classes": {
+        "bff09953-5919-466b-be6c-3c33756e5c2b": {
+            "name": "default"
+        }
+    },
+    "nets": {},
+    "project_meta": {
+        "author": "Mansour Behabadi",
+        "date": "2023-02-27",
+        "project_name": "fpx",
+        "project_title": "fpx",
+        "rev": "1"
+    },
+    "tag_names": {},
+    "uuid": "321bbcca-0e12-4108-be13-4900188b6ae4"
+}

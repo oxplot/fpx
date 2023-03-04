@@ -1,0 +1,52 @@
+{
+    "annotation": {
+        "fill_gaps": true,
+        "ignore_unknown": false,
+        "keep": true,
+        "mode": "sheet_100",
+        "order": "right_down"
+    },
+    "block": "321bbcca-0e12-4108-be13-4900188b6ae4",
+    "group_tag_visible": false,
+    "name": "",
+    "pdf_export_settings": {
+        "min_line_width": 0,
+        "output_filename": ""
+    },
+    "rules": {
+        "connectivity": {
+            "enabled": true,
+            "include_unnamed": true,
+            "order": -1
+        }
+    },
+    "sheets": {
+        "3a2223c0-8fea-4ecf-9ecf-c43184e37d53": {
+            "arcs": {},
+            "block_symbols": {},
+            "bus_labels": {},
+            "bus_rippers": {},
+            "frame": "ba34cbaf-e36e-44c3-af16-bab253fc720b",
+            "index": 1,
+            "junctions": {},
+            "lines": {},
+            "name": "First sheet",
+            "net_labels": {},
+            "net_lines": {},
+            "power_symbols": {},
+            "symbols": {},
+            "texts": {},
+            "title_block_values": {}
+        }
+    },
+    "title_block_values": {
+        "author": "Mansour Behabadi",
+        "date": "2023-02-27",
+        "project_name": "fpx",
+        "project_title": "fpx",
+        "rev": "1"
+    },
+    "type": "schematic_block",
+    "uuid": "3d2faf98-7224-4eb7-8a1d-bf3d30b6179b",
+    "version": 8
+}

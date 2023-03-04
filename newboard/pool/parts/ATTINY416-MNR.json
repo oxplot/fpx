@@ -1,0 +1,117 @@
+{
+    "MPN": [
+        false,
+        "ATTINY416-MNR"
+    ],
+    "datasheet": [
+        false,
+        "https://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny212-214-412-414-416-DataSheet-DS40002287A.pdf"
+    ],
+    "description": [
+        false,
+        "IC MCU 8BIT 4KB FLASH 20VQFN"
+    ],
+    "entity": "48306bab-a1a0-4f04-907f-af32127020b1",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Microchip"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "d8ae1cba-9000-49f6-a055-16470fa65586",
+    "pad_map": {
+        "183cc012-1754-4c1b-84b0-f205e20fc3cf": {
+            "gate": "c0127664-edb9-4f39-b63e-d870b447e8e9",
+            "pin": "8dea690f-3e59-49bb-8e22-e9dc067b82ec"
+        },
+        "1a916666-3b86-44a4-97c4-12b748aad85a": {
+            "gate": "c0127664-edb9-4f39-b63e-d870b447e8e9",
+            "pin": "696b9e2b-a505-4a2d-8982-50f79269528f"
+        },
+        "2f0957e9-0dad-47c3-8755-5ed50ce9ebcf": {
+            "gate": "c0127664-edb9-4f39-b63e-d870b447e8e9",
+            "pin": "df4726eb-5e6b-4604-8977-718159d042c3"
+        },
+        "33a4620f-93c4-4ed4-80a9-e1a5906f264e": {
+            "gate": "c0127664-edb9-4f39-b63e-d870b447e8e9",
+            "pin": "8d97f31c-00cf-4c59-b80d-c4bb5b1013f8"
+        },
+        "42c80936-bd43-4e0f-bbee-7162d0aa0bec": {
+            "gate": "c0127664-edb9-4f39-b63e-d870b447e8e9",
+            "pin": "ce4871fe-aed5-47b7-8c09-c3c3d691a74d"
+        },
+        "45f7ab58-0516-4677-933e-099a74489845": {
+            "gate": "c0127664-edb9-4f39-b63e-d870b447e8e9",
+            "pin": "d51eab53-ec80-4b9b-a943-d6f98ebbec20"
+        },
+        "48fd0f98-dfb3-49c6-b5e1-8a14ed8bbdcc": {
+            "gate": "c0127664-edb9-4f39-b63e-d870b447e8e9",
+            "pin": "81e02474-ce17-46fd-a0fe-74c6fc99d318"
+        },
+        "52cef3e0-f23d-41cf-bf99-7bde5b5d96aa": {
+            "gate": "c0127664-edb9-4f39-b63e-d870b447e8e9",
+            "pin": "0d154aa5-ef0e-468e-b8ab-34b5e0642d30"
+        },
+        "65ca13d6-9488-402a-8d61-b7772f2601a9": {
+            "gate": "c0127664-edb9-4f39-b63e-d870b447e8e9",
+            "pin": "b621d682-6f5f-4b6a-b8db-5bf7ab923c61"
+        },
+        "6d3ae769-31d8-4056-ab83-66e1df685b73": {
+            "gate": "c0127664-edb9-4f39-b63e-d870b447e8e9",
+            "pin": "ae0787f7-a2e9-4d44-b683-64138e6b2d32"
+        },
+        "7a1ee3cf-d0dc-4919-ad5e-f7f7fc933de4": {
+            "gate": "c0127664-edb9-4f39-b63e-d870b447e8e9",
+            "pin": "748c9e96-8634-4a26-b009-9284f2828800"
+        },
+        "7d8b285e-bd24-4ece-ad05-027ce6c281ea": {
+            "gate": "c0127664-edb9-4f39-b63e-d870b447e8e9",
+            "pin": "b0ee0d9f-47f8-4123-af11-a1a6e984c261"
+        },
+        "801280fa-078d-41fe-9578-c86ebdfa15b2": {
+            "gate": "c0127664-edb9-4f39-b63e-d870b447e8e9",
+            "pin": "cd82f3ab-3bb4-4f60-b94c-02477ad99b72"
+        },
+        "880012ae-65e1-46e2-a9cb-3b40d2bf3c2a": {
+            "gate": "c0127664-edb9-4f39-b63e-d870b447e8e9",
+            "pin": "35394d2d-6cac-4765-a634-bce15c76f299"
+        },
+        "a21db86e-f852-494f-b288-97160d482c00": {
+            "gate": "c0127664-edb9-4f39-b63e-d870b447e8e9",
+            "pin": "db041973-dfc5-40c5-b58f-6e961c2089b2"
+        },
+        "b825babb-d2d0-4bb3-90a5-9e1bbb4bb33e": {
+            "gate": "c0127664-edb9-4f39-b63e-d870b447e8e9",
+            "pin": "d14f7c67-9211-494a-96ca-883503830e06"
+        },
+        "c144204e-2c2f-43b0-bff5-af5738d3761f": {
+            "gate": "c0127664-edb9-4f39-b63e-d870b447e8e9",
+            "pin": "0190e2cc-4221-4d3b-89eb-c6ccbc3202e8"
+        },
+        "d269d568-0b4e-4471-8726-0a37b7f8a3bb": {
+            "gate": "c0127664-edb9-4f39-b63e-d870b447e8e9",
+            "pin": "08d967b2-e938-4377-918a-adf39ea94ab2"
+        },
+        "dc18b259-d371-4547-afbd-376495e1128a": {
+            "gate": "c0127664-edb9-4f39-b63e-d870b447e8e9",
+            "pin": "d20a3020-dafc-40b8-bf07-9dbaaf7ec37f"
+        },
+        "e2580b0e-4b30-4adc-bcb3-3736d8d41be8": {
+            "gate": "c0127664-edb9-4f39-b63e-d870b447e8e9",
+            "pin": "e9eb395f-3c98-4d6f-b299-858aded2eb87"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "avr",
+        "ic",
+        "mcu"
+    ],
+    "type": "part",
+    "uuid": "bd876c65-bd59-4858-8beb-1689c24b7137",
+    "value": [
+        false,
+        ""
+    ]
+}

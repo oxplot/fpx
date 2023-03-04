@@ -1,0 +1,62 @@
+{
+    "manufacturer": "",
+    "name": "USB Type-C for USB2.0",
+    "pins": {
+        "064529f5-6793-469d-8677-c79fcd871f28": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "D+",
+            "swap_group": 0
+        },
+        "2717d9e3-9712-4526-8024-6efc1e8e0bc0": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "63d5899e-90d1-447c-9eaa-1eaf276e807c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SBU1",
+            "swap_group": 0
+        },
+        "7a4448f5-517d-4ec6-97f7-aefcdf13e02d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VBUS",
+            "swap_group": 0
+        },
+        "8adefde6-f9b7-4fed-91ee-55089829bb93": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SBU2",
+            "swap_group": 0
+        },
+        "aee26174-f9f5-43a8-92e1-3ddf20d371b0": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Shield",
+            "swap_group": 0
+        },
+        "b1c2ee2f-b8be-44c0-9561-79a5d9d6bc0b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "D-",
+            "swap_group": 0
+        },
+        "d9e315ef-20c5-40e4-98ab-e604063682b5": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "CC2",
+            "swap_group": 0
+        },
+        "f075d86c-b10a-412a-b49d-714cc3efcce7": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "CC1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ebf07627-6cc6-4ab0-9d3a-6b5bb09f1b2e"
+}
