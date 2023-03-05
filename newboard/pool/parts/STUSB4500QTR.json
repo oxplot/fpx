@@ -1,0 +1,132 @@
+{
+    "MPN": [
+        false,
+        "STUSB4500QTR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.st.com/resource/en/datasheet/stusb4500.pdf"
+    ],
+    "description": [
+        false,
+        "IC USB CONTROLLER I2C 24QFN"
+    ],
+    "entity": "be5d159a-0c07-4cb5-ab10-cb0aa84a1eed",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ST"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "a7411c6a-29b8-43d6-b1a1-ba11cfc2edea",
+    "pad_map": {
+        "0eabe9b1-139b-49be-a4a4-a4d81763d1e7": {
+            "gate": "d41a755d-11f5-49bd-a121-f20f4dc59bdc",
+            "pin": "f77fcb51-493e-4d14-9d3a-4c153b244b2f"
+        },
+        "26ef0a9b-06a1-403c-a7fc-f113378f6679": {
+            "gate": "d41a755d-11f5-49bd-a121-f20f4dc59bdc",
+            "pin": "e8b582bd-9754-4418-a902-186af78d0623"
+        },
+        "2a0c6488-a91d-4e3a-b997-7a77661f2867": {
+            "gate": "d41a755d-11f5-49bd-a121-f20f4dc59bdc",
+            "pin": "9afa0336-f0c1-4f35-bb4e-cb49e73bd777"
+        },
+        "2a522273-0e57-4e98-93ad-c3cb24a90d19": {
+            "gate": "d41a755d-11f5-49bd-a121-f20f4dc59bdc",
+            "pin": "ba919377-43fd-453c-8ee8-beb1c4954171"
+        },
+        "2e6b8130-669e-4361-b13a-c2bd44a15eb7": {
+            "gate": "d41a755d-11f5-49bd-a121-f20f4dc59bdc",
+            "pin": "96263fcb-9bfa-40cb-b4b6-f1291c6e9ae4"
+        },
+        "3dc00c18-9c9d-41be-a8f3-bc84c019bce6": {
+            "gate": "d41a755d-11f5-49bd-a121-f20f4dc59bdc",
+            "pin": "1f7d9d69-90ac-4cba-b751-0dfc28a0d622"
+        },
+        "4ecfcbae-c7ba-4783-969f-77d4774c8fc4": {
+            "gate": "d41a755d-11f5-49bd-a121-f20f4dc59bdc",
+            "pin": "5bf65892-ee11-4675-8655-6d74791ff705"
+        },
+        "56a098a8-02f8-457e-81ae-ecfd32ea8af7": {
+            "gate": "d41a755d-11f5-49bd-a121-f20f4dc59bdc",
+            "pin": "09b2f1b7-73de-42e8-bf3d-9257f16399f7"
+        },
+        "768cccd4-f67f-437b-869f-a1aa54e81c5a": {
+            "gate": "d41a755d-11f5-49bd-a121-f20f4dc59bdc",
+            "pin": "901e6e93-dfa5-41c4-8771-c1b7d9ba2a21"
+        },
+        "7737bdfa-40aa-4970-a0c6-d75b238801b1": {
+            "gate": "d41a755d-11f5-49bd-a121-f20f4dc59bdc",
+            "pin": "5d0e2ded-e03d-4c26-b58e-ecad2d10dbfb"
+        },
+        "7aa0a549-c636-4e7e-81a0-5fe14fa3aa0a": {
+            "gate": "d41a755d-11f5-49bd-a121-f20f4dc59bdc",
+            "pin": "776cf532-3d12-43b3-82db-eded4c71f57e"
+        },
+        "7c73bfcf-e64c-4598-9ace-c167b828c937": {
+            "gate": "d41a755d-11f5-49bd-a121-f20f4dc59bdc",
+            "pin": "b6b5e1b6-4a12-4033-a16a-7d3f85ae5ca0"
+        },
+        "8dce05e6-d386-4c9d-a059-ac78bc4c4b95": {
+            "gate": "d41a755d-11f5-49bd-a121-f20f4dc59bdc",
+            "pin": "3af312a0-b3f2-409b-8a77-4b9a58c88a29"
+        },
+        "8e1248aa-8170-46f7-8fcd-59421ac0c1e0": {
+            "gate": "d41a755d-11f5-49bd-a121-f20f4dc59bdc",
+            "pin": "90cdc68b-5152-4df4-bf6d-6fbbbd51e559"
+        },
+        "91a492d6-da7a-47f6-8edb-ff5ad5002cb7": {
+            "gate": "d41a755d-11f5-49bd-a121-f20f4dc59bdc",
+            "pin": "655f7d0f-24dd-487c-91b8-cf96d709f121"
+        },
+        "a1f14e77-e3a9-44d1-a9e0-35ab275e8954": {
+            "gate": "d41a755d-11f5-49bd-a121-f20f4dc59bdc",
+            "pin": "2b46a871-9a26-4af5-9ba5-48bc987ac3f9"
+        },
+        "a7dd0322-ac41-496f-85f2-074e8a60bddf": {
+            "gate": "d41a755d-11f5-49bd-a121-f20f4dc59bdc",
+            "pin": "6b500bf9-4eb8-4c60-bf4a-e17ea95f6475"
+        },
+        "ba8f71dd-c654-4c8e-9e81-477309b278d9": {
+            "gate": "d41a755d-11f5-49bd-a121-f20f4dc59bdc",
+            "pin": "ecb8d614-dd5f-456d-aeca-07c5a99aa5ef"
+        },
+        "cc4b8068-bd22-49f1-96f7-dbba5af5f064": {
+            "gate": "d41a755d-11f5-49bd-a121-f20f4dc59bdc",
+            "pin": "fc014673-628c-437d-a20b-12bf2cdbda9a"
+        },
+        "d0fc94a1-b0af-43fc-a5b5-905a1c70a52c": {
+            "gate": "d41a755d-11f5-49bd-a121-f20f4dc59bdc",
+            "pin": "5982bb9c-954b-4357-8f9f-cf9c2a132377"
+        },
+        "dba9dbd9-8f7b-4b4c-872b-5ab7cdae964e": {
+            "gate": "d41a755d-11f5-49bd-a121-f20f4dc59bdc",
+            "pin": "c0bd8f59-b0d4-4baf-abc8-e4a1bb9e3dfa"
+        },
+        "ec9609b6-0573-4b76-a68f-c78bc452dd12": {
+            "gate": "d41a755d-11f5-49bd-a121-f20f4dc59bdc",
+            "pin": "5a56de35-7845-45fd-b2e9-8a977d7a0baf"
+        },
+        "f87c84ac-91bb-4131-af71-ca823fc4cc71": {
+            "gate": "d41a755d-11f5-49bd-a121-f20f4dc59bdc",
+            "pin": "e5c694a7-97f3-43c8-96b8-f39e7dd6c3d9"
+        },
+        "fcde3180-f0e1-4c2a-ada6-e35a78e0d1b0": {
+            "gate": "d41a755d-11f5-49bd-a121-f20f4dc59bdc",
+            "pin": "35030099-d6af-4b48-8f0a-814ef90ae51f"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "usb"
+    ],
+    "type": "part",
+    "uuid": "56b789a9-3cd8-4e8f-b5e1-3311086ea190",
+    "value": [
+        false,
+        ""
+    ]
+}

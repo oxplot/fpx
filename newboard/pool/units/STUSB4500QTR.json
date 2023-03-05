@@ -1,0 +1,152 @@
+{
+    "manufacturer": "ST",
+    "name": "STUSB4500QTR",
+    "pins": {
+        "09b2f1b7-73de-42e8-bf3d-9257f16399f7": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "POWER_OK2",
+            "swap_group": 0
+        },
+        "1f7d9d69-90ac-4cba-b751-0dfc28a0d622": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ADDR0",
+            "swap_group": 0
+        },
+        "2b46a871-9a26-4af5-9ba5-48bc987ac3f9": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "VBUS_EN_SNK",
+            "swap_group": 0
+        },
+        "35030099-d6af-4b48-8f0a-814ef90ae51f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC1",
+            "swap_group": 0
+        },
+        "3af312a0-b3f2-409b-8a77-4b9a58c88a29": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC2DB",
+            "swap_group": 0
+        },
+        "5982bb9c-954b-4357-8f9f-cf9c2a132377": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VREG_2V7",
+            "swap_group": 0
+        },
+        "5a56de35-7845-45fd-b2e9-8a977d7a0baf": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "A_B_SIDE",
+            "swap_group": 0
+        },
+        "5bf65892-ee11-4675-8655-6d74791ff705": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "5d0e2ded-e03d-4c26-b58e-ecad2d10dbfb": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC2",
+            "swap_group": 0
+        },
+        "655f7d0f-24dd-487c-91b8-cf96d709f121": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "ATTACH",
+            "swap_group": 0
+        },
+        "6b500bf9-4eb8-4c60-bf4a-e17ea95f6475": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "DISCH",
+            "swap_group": 0
+        },
+        "776cf532-3d12-43b3-82db-eded4c71f57e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "901e6e93-dfa5-41c4-8771-c1b7d9ba2a21": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VREG_1V2",
+            "swap_group": 0
+        },
+        "90cdc68b-5152-4df4-bf6d-6fbbbd51e559": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "96263fcb-9bfa-40cb-b4b6-f1291c6e9ae4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RESET",
+            "swap_group": 0
+        },
+        "9afa0336-f0c1-4f35-bb4e-cb49e73bd777": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO",
+            "swap_group": 0
+        },
+        "b6b5e1b6-4a12-4033-a16a-7d3f85ae5ca0": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "ALERT",
+            "swap_group": 0
+        },
+        "ba919377-43fd-453c-8ee8-beb1c4954171": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "EP",
+            "swap_group": 0
+        },
+        "c0bd8f59-b0d4-4baf-abc8-e4a1bb9e3dfa": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSYS",
+            "swap_group": 0
+        },
+        "e5c694a7-97f3-43c8-96b8-f39e7dd6c3d9": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "POWER_OK3",
+            "swap_group": 0
+        },
+        "e8b582bd-9754-4418-a902-186af78d0623": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ADDR1",
+            "swap_group": 0
+        },
+        "ecb8d614-dd5f-456d-aeca-07c5a99aa5ef": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "f77fcb51-493e-4d14-9d3a-4c153b244b2f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC1DB",
+            "swap_group": 0
+        },
+        "fc014673-628c-437d-a20b-12bf2cdbda9a": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "VBUS_VS_DISCH",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "d7b87725-c9b7-41a7-ba8e-b40937101380"
+}

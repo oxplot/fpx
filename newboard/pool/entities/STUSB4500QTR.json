@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "d41a755d-11f5-49bd-a121-f20f4dc59bdc": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "d7b87725-c9b7-41a7-ba8e-b40937101380"
+        }
+    },
+    "manufacturer": "ST",
+    "name": "STUSB4500QTR",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "type-c"
+    ],
+    "type": "entity",
+    "uuid": "be5d159a-0c07-4cb5-ab10-cb0aa84a1eed"
+}
