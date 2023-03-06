@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "d924316c-b164-4a9a-a996-6d506e52c653",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -138,7 +138,17 @@
         }
     },
     "manufacturer": "",
-    "models": {},
+    "models": {
+        "d924316c-b164-4a9a-a996-6d506e52c653": {
+            "filename": "3d_models/STUSB4500QTR.step",
+            "pitch": 0,
+            "roll": 49152,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
     "name": "QFN-24 EP (4x4)",
     "pads": {
         "0eabe9b1-139b-49be-a4a4-a4d81763d1e7": {

@@ -1,0 +1,56 @@
+{
+    "MPN": [
+        false,
+        "L78L33ACUTR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.st.com/resource/en/datasheet/l78l.pdf"
+    ],
+    "description": [
+        false,
+        "IC REG LINEAR 3.3V 100MA SOT89-3"
+    ],
+    "entity": "1d0055e8-b654-4bb9-b3e2-5ad87079ecca",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "8031d8e1-2868-4991-b82d-399e798f8b23",
+    "package": "4dd304a7-b639-4f8b-873c-a66d8ae78c49",
+    "pad_map": {
+        "09af0b67-82e4-4c25-b001-5e87f59144f6": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
+        },
+        "0da1f732-ea3c-4302-9040-fe38b9d9474f": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
+        },
+        "6d218161-e71c-4f2c-a5d6-0a2f9947bdf1": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "304699c2-7433-4b03-ad2c-c8df631dd06f"
+        },
+        "9a3e6cb9-36f8-40ff-b2f5-296e045e0921": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "559d5e91-2169-486b-9ece-8db9867957dd"
+        },
+        "a39bb9ba-961c-42fb-96b2-814a0a711121": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "regulator"
+    ],
+    "type": "part",
+    "uuid": "a2e0678c-c9ba-4c11-ba2c-ffa0e3b58ae9",
+    "value": [
+        false,
+        ""
+    ]
+}
