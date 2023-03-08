@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "TVS Diode",
+    "pins": {
+        "16ee5a5c-8eea-4447-ad48-04d973776e3a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "K",
+            "swap_group": 0
+        },
+        "b57ca2a1-1bbf-43f0-b0a0-bf953094a8de": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "319c5623-65f1-434c-bdfd-55936d55604e"
+}

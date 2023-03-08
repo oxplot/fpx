@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "ESDA25P35-1U1M"
+    ],
+    "datasheet": [
+        false,
+        "https://www.st.com/content/ccc/resource/technical/document/datasheet/group3/e4/43/53/b9/4e/8a/40/bb/DM00312034/files/DM00312034.pdf/jcr:content/translations/en.DM00312034.pdf"
+    ],
+    "description": [
+        false,
+        "TVS DIODE 22VWM 41VC 1610"
+    ],
+    "entity": "3b92f00e-a54a-41c2-9d25-ba6e2a89c1ed",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "1370f7a5-7927-4e79-8fce-19428a012d70",
+    "pad_map": {
+        "14c0575f-5685-43a3-a7d8-705ce107ac3c": {
+            "gate": "3a9cf76e-893b-4785-a6af-6f15da2086dc",
+            "pin": "16ee5a5c-8eea-4447-ad48-04d973776e3a"
+        },
+        "8ea94abd-8f9d-4084-a3cf-fe9c8a64e925": {
+            "gate": "3a9cf76e-893b-4785-a6af-6f15da2086dc",
+            "pin": "b57ca2a1-1bbf-43f0-b0a0-bf953094a8de"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "passive",
+        "tvs"
+    ],
+    "type": "part",
+    "uuid": "cba01ead-8804-4aa9-826e-8696754e3546",
+    "value": [
+        false,
+        ""
+    ]
+}

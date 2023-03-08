@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "3a9cf76e-893b-4785-a6af-6f15da2086dc": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "5cf859e7-139d-4c32-8884-3510fb9c9ad4"
+        }
+    },
+    "manufacturer": "",
+    "name": "TVS Diode",
+    "prefix": "D",
+    "tags": [
+        "diode",
+        "discrete",
+        "schottky"
+    ],
+    "type": "entity",
+    "uuid": "3b92f00e-a54a-41c2-9d25-ba6e2a89c1ed"
+}
